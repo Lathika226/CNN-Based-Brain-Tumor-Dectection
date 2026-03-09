@@ -150,9 +150,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - OpenCV and TensorFlow communities
 - Medical imaging research community
 
-## 📞 Contact
-
-For questions or support, please open an issue on GitHub.
 
 ---
 
